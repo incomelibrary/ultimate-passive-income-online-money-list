@@ -41,4 +41,4 @@ Ultimate Money Online is an amazing list for people who plan to launch an online
 
 ## Contributing
 
-Your contributions are always welcome! Please read the [contribution guidelines] first.
+Your contributions are always welcome! Please read the contribution guidelines first.
