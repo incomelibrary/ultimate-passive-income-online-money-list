@@ -39,6 +39,19 @@ Ultimate Money Online is an amazing list for people who plan to launch an online
 - [Upside](https://www.upside.com/) - Get Cashback when you spend money on gas. Promo code SKYRU4236 will give you a 30¢ per gallon bonus on your first fill-up.
 - [DollarDig](https://www.dollardig.com/?ref=1000031473)
 
+## Cryptocurrencies
+### Trade cryptocurriences online!
+
+- [Coinbase](https://coinbase.com) - Coinbase is a world leading digital currency exchange
+- [Binance](https://binance.com) - Binance is a cryptocurrency exchange that provides a platform for trading various cryptocurrencies
+- [Kraken](https://www.kraken.com) - Kraken is a US-based cryptocurrency exchange who provides cryptocurrency to fiat trading
+- [Huobi Global](https://www.huobi.com/) - First Prudential Markets (commonly known as “FP Markets,”) is an Australian contract for difference and retail forex provider headquartered in Sydney
+- [Kucoin](https://www.kucoin.com) - KuCoin is a full-featured spot trading platform for many digital assets and cryptocurrencies,
+- [Poloniex](https://poloniex.com) - Poloniex is a digital asset trading service
+- [Bitstamp](https://www.bitstamp.net) - Bitstamp is a bitcoin exchange based in Luxembourg. It allows trading between USD currency and bitcoin cryptocurrency. It allows USD, EUR, bitcoin, XRP, ethereum, litecoin, or bitcoin cash deposits and withdrawals.
+- [Upbit](https://upbit.com/) - Upbit is a South Korean cryptocurrency exchange.It was founded in 2017.[1]
+- [Bitfinex](https://www.bitfinex.com) - Bitfinex is a digital asset trading platform offering state-of-the-art services for digital currency traders and global liquidity providers.
+
 ## Contributing
 
 Your contributions are always welcome! Please read the contribution guidelines first.
