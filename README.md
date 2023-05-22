@@ -36,7 +36,7 @@ Ultimate Money Online is an amazing list for people who plan to launch an online
 ### Cashback from shopping online works by providing a percentage or a fixed amount of money back to the shopper for their eligible purchases. 
 - [Rakuten Ebates](https://www.rakuten.com/r/SHADOW10428)
 - [TopCashBack](https://www.topcashback.com/ref/member537224129052)
-- [Upside](https://www.upside.com/) - Get Cashback when you spend money on gas. Promo code SKURU4236 will give you a 30¢ per gallon bonus on your first fill-up.
+- [Upside](https://www.upside.com/) - Get Cashback when you spend money on gas. Promo code SKYRU4236 will give you a 30¢ per gallon bonus on your first fill-up.
 - [DollarDig](https://www.dollardig.com/?ref=1000031473)
 
 ## Contributing
