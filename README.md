@@ -18,6 +18,7 @@ Ultimate Money Online is an amazing list for people who plan to launch an online
 # Content
 - [Get Paid To](#gpt-platforms)
 - [Cash Back From Shopping Online](#cash-back-from-shopping-online)
+- [Cryptocurrencies](#cryptocurriences)
 
 
 ## GPT (Get-Paid-To) Sites
